@@ -1,0 +1,9 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=refs/remotes/origin/esUrgente-estr
+eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+encoding//src/gui/VentanaCitas.java=UTF-8
+encoding//src/negocio/util/EnviarEmail.java=UTF-8
+>>>>>>> refs/heads/master
